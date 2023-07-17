@@ -1,0 +1,48 @@
+p{
+    float: none;
+    margin-left: auto;
+    padding-left: auto;
+    text-align: center;
+}
+header {color:#00B;}
+small {background-color: cornflowerblue;}
+body {background-color: bisque; text-align: center;}
+h1{text-align: center;}
+
+
+.elementos Caracteres {background-color: rgb(136, 181, 211);}
+
+p {font-size: larger;}
+
+p {color: #00B;} 
+
+p {font-family: cursive;}
+
+
+.elementos{background-color: rgb(128, 215, 215);
+    margin: 20px 320px;
+    padding:auto;
+    border-radius: 10px #009;
+    width: 300px;
+    height: auto;
+    text-align: center;
+
+}
+
+.small-p{
+    text-align:left;
+}
+
+button{
+    padding:5%;
+    height:0%;
+    border-color:black;
+    color:chocolate;
+    
+}
+
+.input-container{
+ width: 52%;
+ margin-top: auto;
+ text-align: center;
+}
