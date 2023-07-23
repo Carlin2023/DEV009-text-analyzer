@@ -115,11 +115,12 @@ El boilerplate que les damos contiene esta estructura:
 ```
 ### 4.1 Prototipo de baja resolución y resultado final 
 
-Inicialmente así fue el diseño establecido para este proyecto. 
+- Inicialmente así fue el diseño establecido para este proyecto. 
 
 ![Analizador de texto Carolina](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/3fb465da-be99-4592-9f54-fcb909ad5c38)
 
-Y este fue el resultado final, 
+- Este fue el resultado final. Si bien el diseño fue cambiando durante el desarrollo del proyecto la idea original se mantuvo. Es posible que a futuro se continue trabajando y transformando en similitudes al prototipo original.  
+
 ![image](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/8860b1b2-61eb-4985-8d73-f7c1c2f22cf5)
 
 
