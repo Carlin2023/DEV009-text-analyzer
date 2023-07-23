@@ -83,9 +83,6 @@ resultado en tiempo real a medida que el usuario escribe su texto:
 3. La aplicación debe permitir limpiar el contenido de la caja de texto haciendo
 clic en un botón.
 
-![Analizador de Texto Carolina ](![image](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/c2ccdd4c-68fa-4f2f-b9ce-4250b68dc244)
-)
-
 ## 4. Boilerplate
 
 La lógica del proyecto debe estar implementada completamente en JavaScript. En
@@ -116,6 +113,13 @@ El boilerplate que les damos contiene esta estructura:
     ├── .eslintrc
     └── analyzer.spec.js
 ```
+### 4.1 Prototipo de baja resolución y resultado final 
+
+![Analizador de texto Carolina](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/3fb465da-be99-4592-9f54-fcb909ad5c38)
+
+![Analizador de Texto Carolina ](![image](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/c2ccdd4c-68fa-4f2f-b9ce-4250b68dc244)
+)
+
 
 ### Descripción de scripts / archivos
 
