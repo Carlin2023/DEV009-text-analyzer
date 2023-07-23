@@ -1,4 +1,4 @@
-# Analizador de texto
+# Analizador de texto de Carolina
 
 ## Índice
 
@@ -17,33 +17,28 @@
 
 ## 1. Consideraciones generales
 
-* Este proyecto lo resolvemos de manera **individual**.
-* El rango de tiempo estimado para completar el proyecto es de 1 a 3 Sprints.
-* Enfócate en aprender y no solamente en "completar" el proyecto.
-* Te sugerimos que no intentes saberlo todo antes de empezar a codear.
-  No te preocupes demasiado ahora por lo que _todavía_ no entiendas.
-  Irás aprendiendo.
-
+* Este proyecto se resolvió de manera **individual**.
+* Fue desarrollado durante 1 mes y 19 días (7 sprint)
+* La estudiante se enfocó en aprender conceptos claves de JavaScrip mientras desarrollaba el proyecto.
+* 
 ## 2. Preámbulo
 
-![Una lupa sobre texto de libro](https://github.com/Laboratoria/bootcamp/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
+![Armando un rompecabezas](https://github.com/Laboratoria/bootcamp/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
 
-_Credito: Foto de [ethan](https://unsplash.com/fr/@andallthings?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
-_en [Unsplash](https://unsplash.com/es/fotos/72NpWZJOskU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+_Credito: Foto de [Sigmund](https://unsplash.com/es/fotos/B-x4VaIriRc)_
 
-Un analizador de texto es una aplicación para extraer información útil de un
-texto utilizando diversas técnicas, como el procesamiento del lenguaje
-natural (NLP), el aprendizaje automático (ML) y el análisis estadístico.
-Estas aplicaciones pueden proporcionar una variedad de métricas que brindan
-información básica sobre la longitud y la estructura del texto como por
-ejemplo, el conteo de palabras, el conteo de caracteres, el conteo de
-oraciones y el conteo de párrafos. Otras métricas incluyen el análisis
-de sentimientos, que utiliza técnicas de NLP para determinar el tono
-general positivo, negativo o neutral del texto, y el análisis de
-legibilidad, que utiliza algoritmos para evaluar la complejidad y la
-legibilidad del texto.
+Te preguntarás que es un Analizador de Texto?
 
-En general, las aplicaciones de análisis de texto brindan información
+Es herramienta representada en una aplicación que como su nombre lo dice permite 
+extraer y analizar información útil de un texto utilizando diversas técnicas 
+como el procesamiento del lenguaje natural (NLP), el aprendizaje automático (ML) 
+y el análisis estadístico.
+
+El Analizador de Texto Carolina permite analizar de un texto el número de palabras, 
+caracteres presentes, números y la longitud promedio. 
+Este  analizador de texto es fácil de usar y gratuito.
+
+//En general, las aplicaciones de análisis de texto brindan información
 valiosa y métricas sobre los textos que pueden ayudar a los usuarios a
 tomar decisiones informadas y sacar conclusiones significativas.
 Mediante el uso de estas herramientas de análisis, los usuarios pueden
@@ -51,8 +46,8 @@ obtener una comprensión más profunda de los textos.
 
 ## 3. Funcionalidades
 
-En este proyecto implementarás un analizador de texto web para calcular
-y mostrar métricas de un texto enviado por el usuario.
+En este proyecto se implementó un analizador de texto web para calcular
+y mostrar métricas de un texto enviado por un usuario.
 
 El listado de funcionalidades es el siguiente:
 
