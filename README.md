@@ -23,7 +23,7 @@
 * 
 ## 2. Preámbulo
 
-![Armando un rompecabezas](https://github.com/Laboratoria/bootcamp/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
+[Armando un rompecabezas](https://github.com/Laboratoria/bootcamp/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
 
 _Credito: Foto de [Sigmund](https://unsplash.com/es/fotos/B-x4VaIriRc)_
 
