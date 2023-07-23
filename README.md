@@ -23,9 +23,10 @@
 * 
 ## 2. Preámbulo
 
-[Armando un rompecabezas](https://github.com/Laboratoria/bootcamp/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
+[Armando un rompecabezas] ![sigmund-B-x4VaIriRc-unsplash Tamaño ](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/55030140-d504-4b0c-91af-8a8fc92b3af6)
 
-_Credito: Foto de [Sigmund](https://unsplash.com/es/fotos/B-x4VaIriRc)_
+
+Credito: Foto de [Sigmund]  Tomada del banco de imagenes de Unisplash
 
 Te preguntarás que es un Analizador de Texto?
 
