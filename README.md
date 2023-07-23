@@ -127,10 +127,8 @@ El boilerplate que les damos contiene esta estructura:
 
 ### Descripción de scripts / archivos
 
-* `README.md`: debes modificarlo para explicar la información necesaria para el
-  uso de tu aplicación
-  web, así como una introducción a la aplicación, su funcionalidad y decisiones
-  de diseño que tomaron.
+¡Información importante!
+
 * `.github/workflows`: esta carpeta contine la configuracion para la ejecution
   de Github Actions. No debes modificar esta carpeta ni su contenido.
 * `docs/images`: contiene las imagenes de este README.
