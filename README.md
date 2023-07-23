@@ -26,7 +26,7 @@
 [Armando un rompecabezas] ![sigmund-B-x4VaIriRc-unsplash Tamaño ](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/55030140-d504-4b0c-91af-8a8fc92b3af6)
 
 
-Credito: Foto de [Sigmund]  Tomada del banco de imagenes de Unisplash
+Credito: Foto de [Sigmund] Tomada del banco de imagenes de la página Unisplash
 
 Te preguntarás que es un Analizador de Texto?
 
@@ -47,7 +47,7 @@ obtener una comprensión más profunda de los textos.
 
 ## 3. Funcionalidades
 
-En este proyecto se implementó un analizador de texto web para calcular
+Este proyecto se basa en la implementación de un analizador de texto web para calcular
 y mostrar métricas de un texto enviado por un usuario.
 
 El listado de funcionalidades es el siguiente:
@@ -55,23 +55,28 @@ El listado de funcionalidades es el siguiente:
 1. La aplicación debe permitir al usuario ingresar un texto escribiéndolo
 en un cuadro de texto.
 
-2. La aplicación debe calcular las siguientes métricas y actualizar el
+2. La aplicación debe calcular seis (6) métricas y actualizar el
 resultado en tiempo real a medida que el usuario escribe su texto:
 
-    - **Recuento de palabras**: la aplicación debe poder contar el número de
+    1. - **Recuento de palabras**: la aplicación debe poder contar el número de
     palabras en el texto de entrada y mostrar este recuento al usuario
-    - **Recuento de caracteres**: la aplicación debe poder contar el número de
+
+    2. - **Recuento de caracteres**: la aplicación debe poder contar el número de
     caracteres en el texto de entrada, incluidos espacios y signos de
     puntuación, y mostrar este recuento al usuario.
-    - **Recuento de caracteres excluyendo espacios y signos de puntuación**:
+
+    3. - **Recuento de caracteres excluyendo espacios y signos de puntuación**:
     la aplicación debe poder contar el número de caracteres en el texto de
     entrada, excluyendo espacios y signos de puntuación, y mostrar este recuento
-    al usuario.  
-    - **Recuento de números**: la aplicación debe contar cúantos números hay en
+    al usuario.
+
+    4. - **Recuento de números**: la aplicación debe contar cúantos números hay en
     el texto de entrada y mostrar este recuento al usuario.
-    - **Suma total de números**: la aplicación debe sumar todos los números que
+
+    5. - **Suma total de números**: la aplicación debe sumar todos los números que
     hay en el texto de entrada y mostrar el resultado al usuario.
-    - **Longitud media de las palabras**: la aplicación debe calcular la
+
+    6. - **Longitud media de las palabras**: la aplicación debe calcular la
     longitud media de las palabras en el texto de entrada y mostrársela al usuario.
 
 3. La aplicación debe permitir limpiar el contenido de la caja de texto haciendo
