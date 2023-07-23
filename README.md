@@ -6,7 +6,7 @@
 * [2. Preámbulo](#2-preámbulo)
 * [3. Funcionalidades](#3-funcionalidades)
 * [4. Boilerplate](#4-boilerplate)
-* [4.1 Prototipo de baja resolución](#4-Prototipo-de-baja-resolución)
+* [4.1 Prototipo de baja resolución y resultado final](#4-Prototipo-de-baja-resolución-y-resultado-final)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Pruebas](#6-pruebas)
 * [7. Pistas, tips y lecturas complementarias](#7-pistas-tips-y-lecturas-complementarias)
