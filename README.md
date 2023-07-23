@@ -58,31 +58,32 @@ en un cuadro de texto.
 2. La aplicación debe calcular seis (6) métricas y actualizar el
 resultado en tiempo real a medida que el usuario escribe su texto:
 
-    1. - **Recuento de palabras**: la aplicación debe poder contar el número de
+   - **Recuento de palabras**: la aplicación debe poder contar el número de
     palabras en el texto de entrada y mostrar este recuento al usuario
 
-    2. - **Recuento de caracteres**: la aplicación debe poder contar el número de
+   - **Recuento de caracteres**: la aplicación debe poder contar el número de
     caracteres en el texto de entrada, incluidos espacios y signos de
     puntuación, y mostrar este recuento al usuario.
 
-    3. - **Recuento de caracteres excluyendo espacios y signos de puntuación**:
+   - **Recuento de caracteres excluyendo espacios y signos de puntuación**:
     la aplicación debe poder contar el número de caracteres en el texto de
     entrada, excluyendo espacios y signos de puntuación, y mostrar este recuento
     al usuario.
 
-    4. - **Recuento de números**: la aplicación debe contar cúantos números hay en
+   - **Recuento de números**: la aplicación debe contar cúantos números hay en
     el texto de entrada y mostrar este recuento al usuario.
 
-    5. - **Suma total de números**: la aplicación debe sumar todos los números que
+   - **Suma total de números**: la aplicación debe sumar todos los números que
     hay en el texto de entrada y mostrar el resultado al usuario.
 
-    6. - **Longitud media de las palabras**: la aplicación debe calcular la
+    - **Longitud media de las palabras**: la aplicación debe calcular la
     longitud media de las palabras en el texto de entrada y mostrársela al usuario.
 
 3. La aplicación debe permitir limpiar el contenido de la caja de texto haciendo
 clic en un botón.
 
-![Text analyzer demo](https://github-production-user-asset-6210df.s3.amazonaws.com/12631491/240650556-988dcd6f-bc46-473b-894c-888a66c9fe2d.gif "Text analyzer demo")
+![Analizador de Texto Carolina ](![image](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/c2ccdd4c-68fa-4f2f-b9ce-4250b68dc244)
+)
 
 ## 4. Boilerplate
 
