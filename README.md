@@ -115,10 +115,13 @@ El boilerplate que les damos contiene esta estructura:
 ```
 ### 4.1 Prototipo de baja resolución y resultado final 
 
+Inicialmente así fue el diseño establecido para este proyecto. 
+
 ![Analizador de texto Carolina](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/3fb465da-be99-4592-9f54-fcb909ad5c38)
 
-![Analizador de Texto Carolina ](![image](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/c2ccdd4c-68fa-4f2f-b9ce-4250b68dc244)
-)
+Y este fue el resultado final, 
+![image](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/8860b1b2-61eb-4985-8d73-f7c1c2f22cf5)
+
 
 
 ### Descripción de scripts / archivos
