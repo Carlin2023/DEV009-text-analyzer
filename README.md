@@ -135,12 +135,12 @@ El boilerplate que les damos contiene esta estructura:
 * `read-only/`: esta carpeta contiene las pruebas de criterios mínimos de
   aceptación y end-to-end. No debes modificar esta carpeta ni su contenido.
 * [`src/index.html`](./src/index.html): Aquí podras encontrar el punto de entrada a la
-  aplicación (Analizador de Texto Carolina). Contiene el archivo HTML.
+  aplicación Analizador de Texto Carolina. Contiene el archivo HTML.
 * [`src/style.css`](./src/style.css): Este archivo contiene las reglas de
   estilo de la aplicación Analizador de Texto Carolina.
 * [`src/analyzer.js`](./src/analyzer.js): aquí se implemento el objeto
   `analyzer`, el cual está _exportado_ en el _boilerplate_. Este objeto
-  (`analyzer`) contiene los seis métodos:
+  (`analyzer`) contiene los seis (6) métodos:
   
   - `analyzer.getWordCount(text)`: esta función debe retornar el recuento de
   palabras que se encuentran en el parámetro `text` de tipo `string`.
@@ -165,18 +165,15 @@ El boilerplate que les damos contiene esta estructura:
   Como ejemplo y referencia de uso de cada función se utilizo el siguiente archivo
   [`test/analyzer.spec.js`](./test/analyzer.spec.js).
 
-* [`src/index.js`](./src/index.js): acá debes escuchar eventos del DOM, invocar
-  los métodos del objeto `analyzer` según sea necesario y actualizar el resultado
-  en la UI (interfaz de usuario).
-* [`test/analyzer.spec.js`](./test/analyzer.spec.js): este archivo contiene las
-pruebas unitarias para los métodos del objeto `analyzer`.
+* [`src/index.js`](./src/index.js): aquí se escuchan los eventos del DOM, invocando
+  los métodos del objeto `analyzer`.
 
 ***
 
 #### Deploy
 
-Hacer que los sitios estén publicados (o _desplegados_) para que usuarias de
-la web puedan acceder a él es algo común en proyectos de desarrollo de software.
+Hacer que los sitios estén publicados (o _desplegados_) para que usuarias y usuarios de
+la web puedan acceder a el es algo común en proyectos de desarrollo de software.
 
 En este proyecto, utilizaremos _Github Pages_ para desplegar nuestro sitio web.
 
