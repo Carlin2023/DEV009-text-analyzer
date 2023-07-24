@@ -538,21 +538,18 @@ La creadora del proyecto se súma al canal de Slack [#project-text-analyzer](htt
 
 ## 8. Consideraciones para pedir tu Project Feedback
 
-Antes de agendar tu Project Feedback con un coach, asegúrate que tu proyecto:
+Para agendar el Project Feedback con la coach Feña Sepulveda, nos aseguramos qué:
 
-* [ ] Cumple con todos los criterios mínimos de aceptación al ejecutar `npm run test:oas`
-* [ ] Cumple con todas las pruebas unitarias al ejecutar `npm run test`
-* [ ] Cumple con todas las pruebas _end to end_ al ejecutar `npm run test:e2e`
-* [ ] Esta libre de _errores_ de `eslint` al ejecutar `npm run test`
-* [ ] Está subido a GitHub.
-* [ ] Esta desplegado en GitHub Pages.
-* [ ] Tiene un README con la definición del producto.
+* [-] Se cumplieran con todos los criterios mínimos de aceptación al ejecutar `npm run test:oas`
+* [-] Se cumplieran con todas las pruebas unitarias al ejecutar `npm run test`
+* [-] Se cumplieran con todas las pruebas _end to end_ al ejecutar `npm run test:e2e`
+* [-] Esta libre de _errores_ de `eslint` al ejecutar `npm run test`
+* [-] Está subido a GitHub.
+* [-] Esta desplegado en GitHub Pages.
+* [-] Tiene un README con la definición del producto.
 
-Recuerda que debes hacer una autoevaluación de _objetivos de aprendizaje_ y
-_life skills_ desde tu dashboard de estudiante.
-
-Si no has completado todo lo anterior, no consideramos que estás lista para
-tu sesión de Project Feedback.
+Se realiza la autoevaluación de _objetivos de aprendizaje_ y
+_life skills_ desde tu dashboard de estudiante de la creadora de la aplicación.
 
 ## 9. Objetivos de aprendizaje
 
