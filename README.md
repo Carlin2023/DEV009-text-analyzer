@@ -193,28 +193,26 @@ relacionados con cada objetivo de aprendizaje.
   [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
   que es padre de un
   [`<h1>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/h1)
-  con texto `Analizador de texto`. Para que puedas practicar más, estos
-  elementos no pueden tener atributos `id`, ni `name`, ni `class`.
+  con texto `Analizador de texto Carolina`. Para poder practicar más, estos
+  elementos no tienen atributos `id`, ni `name`, ni `class`.
 
   - [ ] La aplicación usa un
   [`<textarea>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
   con un el atributo `name` en el valor `user-input` para permitir al usuario
-  ingresar un texto. Para que puedas practicar más, este elemento no puede
-  tener atributos `id`, ni `class`.
+  ingresar un texto. Para poder practicar más, estos
+  elementos no tienen atributos `id`, ni `name`, ni `class`.
 
   - [ ] La aplicación usa un
   [`<ul>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
-  con 6 hijos [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li),
-  uno para mostrar cada métrica.  Para que puedas practicar más, estos
-  elementos no pueden tener atributos `id` ni `name`.
+  con  seis (6) hijos [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li),
+  uno para mostrar cada métrica. Estos elementos no tienen atributos `id` ni `name`.
 
   - [ ] La aplicación tiene un pie de página conformado por un
   [`<footer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
   que es padre de un
   [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
-  que tiene como texto el nombre de la estudiante desarrolladora de la aplicación.
-  Para que puedas practicar más, estos elementos no pueden
-  tener atributos `id`, ni `name`, ni `class`.
+  que tiene como texto el nombre de la estudiante desarrolladora de la aplicación, en este caso Carolina Álvarez 
+  estos elementos no pueden tener atributos `id`, ni `name`, ni `class`.
 
   - [ ] La aplicación usa un
   [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
@@ -317,7 +315,7 @@ relacionados con cada objetivo de aprendizaje.
   y
   [`const`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const).
 
-  - [ ] La aplicación NO declara variables con  `var`.
+  - [ ] Esta aplicación NO declara variables con  `var`.
 
 * **Uso de condicionales (if-else, switch, operador ternario, lógica booleana)**
 
@@ -377,9 +375,9 @@ relacionados con cada objetivo de aprendizaje.
 
 * **GitHub: Creación de cuenta y repos, configuración de llaves SSH**
 
-  - [ ] La estudiante creó una cuenta en Github.
+  - [ ] Se creó una cuenta en Github.
 
-  - [ ] La estudiante configuró su cuenta de Github con una llave SSH.
+  - [ ] Se configuró su cuenta de Github con una llave SSH.
 
 * **Git: Control de versiones con git (clone, add, commit, push)**
 
@@ -402,7 +400,7 @@ usuarias en el centro**
 
 * **Diseñar en distintos niveles de fidelidad**
 
-  - [ ] La estudiante creó prototipos de baja fidelidad para la UI (interfaz gŕafica).
+  - [ ] Como vimos en el punto 4.1 la estudiante creó prototipos de baja fidelidad para la UI (interfaz gŕafica).
 
 * **Seguir los principios básicos de diseño visual**
 
@@ -412,8 +410,8 @@ usuarias en el centro**
 
 ## 6. Pruebas
 
-Este proyecto cuenta con 3 conjuntos de pruebas que te ayudarán a conocer si
-cumples los criterios mínimos de aceptación.
+Este proyecto cuenta con 3 conjuntos de pruebas que permitieron certificar que se 
+cumplío con los criterios mínimos de aceptación.
 
 ### Pruebas unitarias
 
@@ -427,7 +425,7 @@ Las pruebas unitarias de este proyecto ejecutarán los métodos `getWordCount`,
 `getNumbersSum` y `getAverageWordLength` con diferentes argumentos y se
 confirmará que los valores retornados sean los esperados.
 
-Puedes ejecutar estas pruebas con el comando `npm run test` como se muestra
+Estas pruebas se ejecutaron con el comando `npm run test` como se muestra
 en la siguiente imagen:
 
 ![npm run test](https://github-production-user-asset-6210df.s3.amazonaws.com/12631491/240650584-c8267968-d631-4fbb-b05f-458a970544b7.gif "npm run test")
@@ -446,22 +444,23 @@ usaremos las recomendaciones _por defecto_ de tanto `eslint` como `htmlhint`.
 
 ### Pruebas de criterios mínimos de aceptación
 
-Estas pruebas analizarán tus archivos
+Estas pruebas analizaron los archivos:
+
 [`index.html`](src/index.html),
 [`index.js`](src/index.html),
 [`analyzer.js`](src/analyzer.js)
 y
 [`style.css`](src/style.css)
-para verificar que cumples con los
+para verificar que se cumplío con los
 [criterios minimos de aceptacion](#5-objetivos-de-aprendizaje-y-criterios-de-aceptación-mínimos-del-proyecto).
 Cada criterio esta relacionado con un objetivo de aprendizaje.
 
-Puedes ejecutar todas estas pruebas con el comando `npm run test:oas`
+Otra opcion presentada para ejecutar todas estas pruebas puede ser con el comando `npm run test:oas`
 como se muestra en la siguiente imagen:
 
 ![npm run test oas](https://github-production-user-asset-6210df.s3.amazonaws.com/12631491/240650602-f0ca9170-7563-4edc-9e78-874fa012c4fd.gif "npm run test oas")
 
-Puedes ejecutar las pruebas de cada grupo de objetivos de aprendizaje de
+Se pueden ejecutar las pruebas de cada grupo de objetivos de aprendizaje de
 manera individual con los siguientes comandos:
 
 * `npm run test:oas-html`
