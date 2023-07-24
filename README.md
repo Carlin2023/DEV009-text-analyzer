@@ -455,6 +455,13 @@ para verificar que se cumplío con los
 [criterios minimos de aceptacion](#5-objetivos-de-aprendizaje-y-criterios-de-aceptación-mínimos-del-proyecto).
 Cada criterio esta relacionado con un objetivo de aprendizaje.
 
+A continuación algunas imagenes de captura de los test 
+
+![image](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/0bf47dcd-2ed0-4b71-b67b-24e1af4a1033)
+
+![image](https://github.com/Carlin2023/DEV009-text-analyzer/assets/130806117/db0bd08a-5499-4f53-83e8-b6b9981bf301)
+
+
 Otra opcion presentada para ejecutar todas estas pruebas puede ser con el comando `npm run test:oas`
 como se muestra en la siguiente imagen:
 
