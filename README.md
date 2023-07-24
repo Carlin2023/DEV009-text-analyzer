@@ -503,28 +503,27 @@ como se muestra en la siguiente imagen:
 
 ## 7. Pistas, tips y lecturas complementarias
 
+En este punto se siguío paso a paso las instrucciones para comenzar a trabajar. 
+
 ### Prepara tu PC para trabajar
 
-Antes de comenzar instala lo siguiente:
+Para comenzar se instalo lo siguiente:
 
 1. [Node.js](https://nodejs.org/)
-2. [git](https://git-scm.com/download/) Si estas en Linux es muy probable que
-  ya este instalado 👀.
+2. [git](https://git-scm.com/download/) 
   Para conocer más de git visita
   [este enlace](https://curriculum.laboratoria.la/es/topics/scm/01-git)
-3. Un editor de código, te sugerimos [Code](https://code.visualstudio.com/)
+3. EL editor de códigO: [Code](https://code.visualstudio.com/)
 
 Después en [GitHub](https://github.com/):
 
-1. Crear una cuenta. Conoce más de GitHub en este
+1. Se cre una cuenta en GitHub.
   [link](https://curriculum.laboratoria.la/es/topics/scm/02-github/01-github)
 2. Realiza un fork de este proyecto
-3. Configura tu SSH Key  en GitHub. Puedes revisar este
-[video](https://www.youtube.com/watch?v=g0ZV-neSM7E) o
-[artículo](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+3. Se configura la SSH Key  en GitHub. 
 
 Luego en una [shell](https://curriculum.laboratoria.la/es/topics/shell)
-ejecuta lo siguiente. Si estas en Windows puedes usar Git Bash:
+se ejecuta lo siguiente. Como se maneja Windows se usa Git Bash:
 
 1. Clona el fork en tu PC
 2. Ubica la shell en el proyecto que clonaste
@@ -532,11 +531,10 @@ ejecuta lo siguiente. Si estas en Windows puedes usar Git Bash:
 4. Instala `playwright` con `npx playwright install chromium --with-deps`
 5. Para arrancar el servidor web `npm start` y dirígete a
    `http://localhost:3000` en tu navegador.
-6. A codear se ha dicho! :rocket:
 
 ### Recursos y temas relacionados
 
-Súmate al canal de Slack [#project-text-analyzer](https://claseslaboratoria.slack.com/archives/C058GP6K9NY)
+La creadora del proyecto se súma al canal de Slack [#project-text-analyzer](https://claseslaboratoria.slack.com/archives/C058GP6K9NY)
 
 ## 8. Consideraciones para pedir tu Project Feedback
 
