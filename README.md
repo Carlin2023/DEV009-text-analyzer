@@ -134,40 +134,36 @@ El boilerplate que les damos contiene esta estructura:
 * `docs/images`: contiene las imagenes de este README.
 * `read-only/`: esta carpeta contiene las pruebas de criterios mínimos de
   aceptación y end-to-end. No debes modificar esta carpeta ni su contenido.
-* [`src/index.html`](./src/index.html): este es el punto de entrada a tu
-  aplicación. Este archivo debe contener tu HTML.
-* [`src/style.css`](./src/style.css): este archivo debe contener las reglas de
-  estilo. Queremos que escribas tus propias reglas, por eso NO está permitido el
-  uso de frameworks de CSS (Bootstrap, Materialize, etc).
-* [`src/analyzer.js`](./src/analyzer.js): acá debes implementar el objeto
-  `analyzer`, el cual ya está _exportado_ en el _boilerplate_. Este objeto
-  (`analyzer`) debe contener seis métodos:
+* [`src/index.html`](./src/index.html): Aquí podras encontrar el punto de entrada a la
+  aplicación (Analizador de Texto Carolina). Contiene el archivo HTML.
+* [`src/style.css`](./src/style.css): Este archivo contiene las reglas de
+  estilo de la aplicación Analizador de Texto Carolina.
+* [`src/analyzer.js`](./src/analyzer.js): aquí se implemento el objeto
+  `analyzer`, el cual está _exportado_ en el _boilerplate_. Este objeto
+  (`analyzer`) contiene los seis métodos:
+  
   - `analyzer.getWordCount(text)`: esta función debe retornar el recuento de
   palabras que se encuentran en el parámetro `text` de tipo `string`.
+
   - `analyzer.getCharacterCount(text)`: esta función debe retornar el recuento
   de caracteres que se encuentran en el parámetro `text` de tipo `string`.
+
   - `analyzer.getCharacterCountExcludingSpaces(text)`: esta función debe retornar
   el recuento de caracteres excluyendo espacios y signos de puntuación que se
   encuentran en el parámetro `text` de tipo `string`.
+
   - `analyzer.getNumberCount(text)`: esta función debe retornar cúantos números
   se encuentran en el parámetro `text` de tipo `string`.
+
   - `analyzer.getNumberSum(text)`: esta función debe retornar la suma de todos
   los números que se encuentran en el parámetro `text` de tipo `string`.
+
   - `analyzer.getAverageWordLength(text)`: esta función debe retornar la longitud
   media de palabras que se encuentran en el parámetro `text` de tipo `string`.
   En este caso usa 2 dígitos decimales.
 
-  Para ejemplo de uso de cada función recomendamos ver el archivo
+  Como ejemplo y referencia de uso de cada función se utilizo el siguiente archivo
   [`test/analyzer.spec.js`](./test/analyzer.spec.js).
-
-  _Nota:  para simplificar las funcionalidades, definiremos las palabras como
-  un grupos de caracteres separados por espacios. Por ejemplo las palabras del
-  texto de entrada `¡Si, Tú puedes hacerlo!` son cuatro:_
-
-  - _`¡Si,`_
-  - _`Tú`_
-  - _`puedes`_
-  - _`hacerlo!`_
 
 * [`src/index.js`](./src/index.js): acá debes escuchar eventos del DOM, invocar
   los métodos del objeto `analyzer` según sea necesario y actualizar el resultado
